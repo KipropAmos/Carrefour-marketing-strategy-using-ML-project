@@ -1,4 +1,4 @@
-# Moringa_Data_Science_Core_W14_Independent_Project_2022_06_Kiprop_Amos-
+# Carrefour marketing strategy using ML 
 
 ## About
 Carrefour Kenya are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). The project has been divided into four parts;
